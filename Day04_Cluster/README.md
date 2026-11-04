@@ -6,7 +6,7 @@ Interactive 3D globe of the Starlink constellation.
 ~3,268 satellites shown as elevated points; switch to hexbin clusters to see density hotspots in low Earth orbit (~550 km).
 
 ## Features
-- Points view (color by version or orbital height)
+- Points view (colour by version or orbital height)
 - Cluster / hexbin mode with adjustable resolution
 - Auto-rotation, hover tooltips, live stats
 
